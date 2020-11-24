@@ -1,0 +1,7 @@
+1. index.html contains the HTML form
+
+2. when the submit button being click, JS will trigger the AJAX request
+
+3. The AJAX request is sending to the form's action attribute
+
+4. the AJAx request is expecting JSON to be returned (return.json)
